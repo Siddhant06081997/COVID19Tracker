@@ -254,14 +254,14 @@ footer{
     justify-content: center;
 }
 
-.copyright{
+.footerPara{
     height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-.copyright p{
+.footerPara p{
     color: #FFF;
 }
 /* ---------------------------------------------- */
